@@ -1,4 +1,4 @@
-A cross-platform command line utility to watch file system changes.
+download file
 
 ## install
 
